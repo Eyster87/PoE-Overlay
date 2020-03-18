@@ -24,10 +24,10 @@
 	"evaluate": {
 		"count": "计数",
 		"currency": "显示货币",
-		"days": "过去7天",
+		"days": "过去7天", // this chinese translation means "Past 7 days" , if you really meant it, then no changes on this , if you didn't mean it and just a simple "days" you may change to "天数"
 		"error": "发生错误。",
 		"loading": "载入中...",
-		"mean": "意思",
+		"mean": "意思", // mean is "平均值" , is should be a noun , not a verb..
 		"median": "中位数",
 		"mode": "模式",
 		"name": "评估",
@@ -38,24 +38,24 @@
 			"default": "默认搜索设置",
 			"disable-max-range": "禁用最大范围",
 			"filter": "搜索过滤器",
-			"gem": "宝石等级，地图等级和品质",
-			"item-default-links": "物品链接",
+			"gem": "宝石等级，地图等级和品质", //gem only means "宝石" but the translation means "Gem Level , Map Level and Quality" , if you only mean Gem , you can change to "宝石"
+			"item-default-links": "物品默认链接数",
 			"item-level": "物品等级",
 			"item-links": {
 				"always": "总是",
 				"never": "决不"
 			},
-			"item-sockets": "插座",
+			"item-sockets": "洞数",
 			"item-type": "物品种类",
 			"max-age": {
 				"any": "任何时间",
 				"day": "直到一天前",
-				"days": "最多3天前",
-				"month": "最多1个月前",
-				"months": "最多2个月前",
-				"title": "列出最高年龄",
-				"week": "直到一周前",
-				"weeks": "最多2周前"
+				"days": "最多3天前", // translation means "At most 3 days" , so do u really meant it ?
+				"month": "最多1个月前", // translation means "At most 1 months"  so do u really meant it ?
+				"months": "最多2个月前", // translation means "At most 2 months"  so do u really meant it ?
+				"title": "列出最高年龄", 
+				"week": "直到一周前", //translation means "One week before"  so do u really meant it ?
+				"weeks": "最多2周前"  //translation means "Two week before"  so do u really meant it ?
 			},
 			"modifier": "修改器搜索设置",
 			"modifier-range": "修改范围",
@@ -89,17 +89,17 @@
 		"graph-url": "通过“ academy.datawrapper.de”打开“如何读取直方图的最小最大中位数均值”",
 		"graphic": "这主要是由当前铬版本的不兼容图形驱动程序引起的。<br> 请在任务栏菜单中禁用“硬件加速”。",
 		"graphic-title": "图形模糊/图形错误？",
-		"name": "救命",
+		"name": "帮助",
 		"patreon": "在Patreon上支持我",
 		"wiki": "打开项目维基",
 		"wiki-title": "有关更多文档，请参见项目Wiki。"
 	},
 	"map": {
-		"boss": "老板",
-		"boss-rating": "老板评分",
-		"bosses": "老板",
+		"boss": "地图尾王",
+		"boss-rating": "地图尾王评分",
+		"bosses": "尾王们",
 		"info": "信息",
-		"layout-rating": "布局等级",
+		"layout-rating": "地形等级",
 		"name": "地图",
 		"no-map": "项目不是地图。",
 		"not-found": "找不到地图。",
@@ -124,7 +124,7 @@
 		"name": "杂项",
 		"navigation": "导航",
 		"open-poedb": "打开PoE DB",
-		"open-poedb-external": "外部开放式PoE DB",
+		"open-poedb-external": "外部打开PoE DB",
 		"open-wiki": "打开维基",
 		"open-wiki-external": "外部打开Wiki",
 		"parser-error": "剪贴板无法解析。请确保您清除（ESC）上一个突出显示。",
@@ -150,15 +150,15 @@
 		"language": "语言",
 		"languages": {
 			"english": "英语",
-			"french": "法国",
+			"french": "法语",
 			"german": "德语",
-			"korean": "朝鲜的",
-			"polish": "抛光",
+			"korean": "韩语",
+			"polish": "波兰语",
 			"portuguese": "葡萄牙语",
 			"russian": "俄语",
 			"simplifiedchinese": "简体中文",
 			"spanish": "西班牙语",
-			"thai": "泰国",
+			"thai": "泰语",
 			"traditionalchinese": "繁体中文"
 		},
 		"league": "联盟",
